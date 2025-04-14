@@ -85,32 +85,29 @@ Average Customer Support Calls = AVERAGE('Databel - Data'[Customer Support Calls
 
 ## 🔍 Key Insights
 
-The top three reasons why customers churned are:
+- The top three reasons why customers churned are: Competitor made better offer, Competitor had better devices and Attitude of support person
 
--Competitor made better offer
--Competitor had better devices
--Attitude of support person
+- Customers on monthly contracts churn significantly more than yearly contract holders.
 
-Customers on monthly contracts churn significantly more than yearly contract holders.
-The customers that doesn't belong to a group are more likley to churn. 
+- The customers that doesn't belong to a group are more likley to churn. 
 
-The group that has the lowest churn rate is group 6
+- The group that has the lowest churn rate is group 6.
 
-Seniors have a churn rate about 10% above average.
+- Seniors have a churn rate about 10% above average.
 
-California has an exceptionally high churn rate (~63%) with fewer support calls — an anomaly worth investigating.
+- California has an exceptionally high churn rate (~63%) with fewer support calls — an anomaly worth investigating.
 
-Customers with unlimited data plans and those who frequently contact support are more likely to churn.
+- Customers with unlimited data plans and those who frequently contact support are more likely to churn.
 
 ## ✅ Recommendations
 
-Incentivize long-term contracts to reduce churn.
+- Incentivize long-term contracts to reduce churn.
 
-Target high-risk segments: seniors, heavy data users without unlimited plans, and customers who frequently contact support.
+- Target high-risk segments: seniors, heavy data users without unlimited plans, and customers who frequently contact support.
 
-Review customer satisfaction in low-support but high-churn states (e.g., California).
+- Review customer satisfaction in low-support but high-churn states (e.g., California).
 
-Monitor and optimize international plan offerings to match customer behavior and avoid dissatisfaction.
+- Monitor and optimize international plan offerings to match customer behavior and avoid dissatisfaction.
 
 ## 📌 Notes
 
